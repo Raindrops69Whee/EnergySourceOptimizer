@@ -1,1 +1,3 @@
 # EnergySourceOptimizer
+
+Unzip and run
